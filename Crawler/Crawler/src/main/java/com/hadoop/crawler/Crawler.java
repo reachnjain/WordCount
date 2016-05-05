@@ -66,6 +66,7 @@ public class Crawler {
 						continue;
 					} else if (ref.endsWith("-search")) {
 						continue;
+						hghj
 					} else if (ref.contains("#")) {
 						continue;
 					} else if (!ref.contains("terror")) {
